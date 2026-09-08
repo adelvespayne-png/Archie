@@ -66,9 +66,11 @@ section contain the full detail — this section is what you *do*.
    the equity curve); it goes at the top of the README and landing page.
 2. **Post, in this order** (drafts in `business/launch/` — every claim in
    them is true on the day you post; keep it that way):
-   - **Show HN** (`show_hn.md`) — Tuesday–Thursday ~2pm UTC. Clear the
-     whole day for comments; launch weeks are 25+ hours, plan them like
-     sprints.
+   - **Show HN** (`show_hn.md`) — **currently blocked.** HN restricts
+     Show HNs from new accounts; you need a 2+ week old account with
+     50+ karma from ordinary commenting first. Read the block at the
+     top of `show_hn.md`. When it clears: Tuesday–Thursday ~2pm UTC,
+     whole day cleared for comments.
    - **r/algotrading** (`reddit_algotrading.md`) a few days later — all
      claims are about the code, postable as-is.
    - **r/swingtrading** (`reddit_swingtrading.md`) — **only after** the

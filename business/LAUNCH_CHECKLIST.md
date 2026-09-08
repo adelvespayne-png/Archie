@@ -54,8 +54,14 @@ sprints.**
       matured log.)
 
 - [ ] Publish content pieces 1 & 2 (calendar in GO_TO_MARKET.md §4).
-- [ ] **Show HN** — draft ready to paste in `business/launch/show_hn.md`
-      (Tue–Thu ~14:00 UTC; clear the whole day for comments).
+- [ ] **Show HN** — draft ready in `business/launch/show_hn.md`, but
+      **gated**: HN restricts Show HNs from new accounts (as of Sept
+      2026). Needs a 2+ week old account with 50+ karma first. See the
+      block at the top of that file. Then Tue–Thu ~14:00 UTC, whole day
+      cleared for comments.
+- [ ] **Earn HN standing** — 3–5 substantive comments a day on other
+      people's threads for two weeks. This is the prerequisite above,
+      and it is the owner's own hands only.
 - [ ] r/algotrading value-post — `business/launch/reddit_algotrading.md`
       (all claims about the code; postable as-is).
 - [x] Send "The Trend Check" #1 — **done, 2026-07-18 (ahead of schedule):

@@ -1,5 +1,26 @@
 # Show HN post — ready to paste
 
+> ## ⛔ BLOCKED — you cannot post this yet (checked 2026-09-08)
+>
+> HN is **temporarily restricting Show HNs** because of an influx of posts
+> from brand-new accounts. Their notice: *"You're welcome on HN! Take some
+> time to get to know the community, become a good contributor, and then it
+> will be fine to post an occasional Show HN."*
+>
+> This is not a rejection of the project — it is an account-standing gate,
+> and it applies to everyone new. Trying to post around it (a plain link
+> submission from a 0-karma account, a second account) gets the domain
+> flagged and burns the one good shot.
+>
+> **Unblock condition — all three, then post:**
+> 1. The HN account is **2+ weeks old**.
+> 2. **50+ karma** from ordinary comments (shown next to your username).
+> 3. Comments were on other people's threads, not about Trendkept.
+>
+> Roughly 3–5 thoughtful comments a day for two weeks. Re-check whether the
+> restriction has lifted at https://news.ycombinator.com/showhn.html before
+> each attempt. Everything below stays ready to go.
+
 **When:** Tuesday–Thursday, around 14:00–15:00 UTC (peak HN traffic).
 **Where:** https://news.ycombinator.com/submit
 **Golden rule:** clear your day. The submission is 10% of the work; being
